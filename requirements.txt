@@ -1,0 +1,14 @@
+# Dependencies
+pip
+requests
+tqdm
+spotipy
+ytmusicapi
+
+# JupyterLab
+jupyterlab
+jupyterlab_code_formatter
+jupyterlab_sublime
+ipywidgets
+black
+isort
